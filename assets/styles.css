@@ -1,0 +1,21 @@
+/*color palette*/
+.container {
+  border: 2px solid #000;
+  height: 100vh;
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+.bg-lightgray {
+  background-color: #dad6d7;
+}
+
+.bg-graypurple {
+  background-color: #7b7ca1;
+}
+
+.bg-screen {
+  background-color: #8bac0f;
+}
