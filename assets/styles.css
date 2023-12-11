@@ -2,13 +2,11 @@
 .container-fluid {
   height: 100vh;
   background-color: pink;
+  padding-top: 10px;
 }
-
 .container {
-  padding-top: 100px;
-  width: 245px;
+  width: 768px;
 }
-
 .bg-black {
   background-color: #000;
 }
@@ -29,5 +27,5 @@
 }
 
 .col {
-  height: 22px;
+  height: 35px;
 }
