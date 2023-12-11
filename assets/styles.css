@@ -1,7 +1,12 @@
 /*color palette*/
-.container {
-  border: 2px solid #000;
+.container-fluid {
   height: 100vh;
+}
+
+.container {
+  margin-top: 100px;
+  width: 30%;
+  min-height: 65%;
 }
 
 .bg-black {
@@ -13,9 +18,16 @@
 }
 
 .bg-graypurple {
-  background-color: #7b7ca1;
+  background-color: #6d6e82;
 }
 
+.bg-darkgray {
+  background-color: #424242;
+}
 .bg-screen {
   background-color: #8bac0f;
+}
+
+.col {
+  height: 40px;
 }
