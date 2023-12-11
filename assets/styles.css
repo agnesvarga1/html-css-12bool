@@ -1,12 +1,12 @@
 /*color palette*/
 .container-fluid {
   height: 100vh;
+  background-color: pink;
 }
 
 .container {
-  margin-top: 100px;
-  width: 30%;
-  min-height: 65%;
+  padding-top: 100px;
+  width: 450px;
 }
 
 .bg-black {
@@ -29,5 +29,5 @@
 }
 
 .col {
-  height: 40px;
+  height: 25px;
 }
